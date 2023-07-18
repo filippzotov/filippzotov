@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a graduate of the Saint-Petersburg Transport University, where I earned my degree in Information Security of Automated Systems. Now I'm looking for new job opportunities as software engineer. Programming mostly on Python.
+<br/>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=filippzotov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **filippzotov/filippzotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
